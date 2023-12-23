@@ -1,4 +1,4 @@
-*BreadcrumbsFour-in-a-Row-Game*
+BreadcrumbsFour-in-a-Row-Game
 
 This Java code defines a simple implementation of the "Four in a Row" game using a graphical user interface (GUI) with Java Swing. The game is played on a 6x7 grid, and two players take turns dropping tokens of different colors into columns. The first player to connect four of their tokens either horizontally, vertically, or diagonally wins the game.
 
